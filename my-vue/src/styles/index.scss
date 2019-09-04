@@ -1,0 +1,18 @@
+// 全局的 样式  golbal css
+
+// css 后缀不能省略   
+
+@import "animate.css";
+
+@import "common";
+
+@import "vant.css";
+
+@import "fonts/iconfont.css";
+
+html,
+body,
+#app {
+    width: 100vw;
+    height: 100vh;
+}
